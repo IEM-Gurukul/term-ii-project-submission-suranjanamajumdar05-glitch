@@ -1,3 +1,4 @@
+// Exception Handling
 package payroll;
 public class InvalidSalaryException extends Exception 
 {

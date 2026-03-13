@@ -1,3 +1,4 @@
+// Inheritance
 package payroll;
 public class FullTimeEmployee extends Employee 
 {

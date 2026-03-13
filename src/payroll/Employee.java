@@ -1,3 +1,4 @@
+// Abstraction
 package payroll;
 public abstract class Employee 
 {

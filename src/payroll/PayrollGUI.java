@@ -1,3 +1,4 @@
+// UI - Swing Interface
 package payroll;
 import javax.swing.*;
 import java.awt.*;

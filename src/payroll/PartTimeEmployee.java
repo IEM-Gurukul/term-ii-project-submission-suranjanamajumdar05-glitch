@@ -1,3 +1,4 @@
+// Inheritance & Polymorphism
 package payroll;
 public class PartTimeEmployee extends Employee 
 {
